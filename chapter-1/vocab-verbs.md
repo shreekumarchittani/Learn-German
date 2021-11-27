@@ -1,6 +1,6 @@
 ## Verbs
 
-Der  | Das  
+German  | English  
 ------------- | ------------- 
 verstehen  | to understand
 begrüßen | to greet
